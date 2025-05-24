@@ -1,56 +1,44 @@
-# agile-roadMap
+# 📘 Agile RoadMap
 
-## First Group Search
+A curated list of educational resources to understand and manage Agile workflows, Scrum practices, and Azure DevOps boards effectively.
 
-[Epics vs Features vs User Stories vs Tasks in Azure DevOps Project Management| Agile Sprint Planning ---- YouTube](https://www.youtube.com/watch?v=EYWj40eWSiE)
+---
 
-[How To Do Sprint Planning And Create Product Backlog Using Azure DevOps Boards |Azure DevOps Sprints ---- YouTube](https://www.youtube.com/watch?v=1ReJiHxqt_s)
+## 🧭 Group 1: Foundational Agile & Azure DevOps Resources
 
-[Azure DevOps(ADO) Boards Project Management : Agile in 1 hr ---- Udemy](https://www.udemy.com/course/azure-boards/?couponCode=KEEPLEARNING)
+- 🎥 [Epics vs Features vs User Stories vs Tasks in Azure DevOps Project Management](https://www.youtube.com/watch?v=EYWj40eWSiE) – *YouTube*
+- 🎥 [How To Do Sprint Planning And Create Product Backlog Using Azure DevOps Boards](https://www.youtube.com/watch?v=1ReJiHxqt_s) – *YouTube*
+- 🎓 [Azure DevOps Boards Project Management: Agile in 1 Hour](https://www.udemy.com/course/azure-boards/?couponCode=KEEPLEARNING) – *Udemy*
 
---------------------------------------------
+---
 
-## Second Group Search
+## 🔍 Group 2: Deep Dives & Community Insights
 
-https://www.google.com/search?q=how+to+add+field+in+board+azure+devops&rlz=1C1GCEU_enEG1113EG1113&oq=how+to+add+feiled+in+board+azur&gs_lcrp=EgZjaHJvbWUqCQgCECEYChigATIGCAAQRRg5MgkIARAhGAoYoAEyCQgCECEYChigATIJCAMQIRgKGKABMggIBBAhGAoYFdIBCTEyMjY2ajBqOagCALACAQ&sourceid=chrome&ie=UTF-8#fpstate=ive&vld=cid:fc8638c8,vid:m1iAj20RpE0,st:12
+- 🔗 [How to Add Fields to Azure DevOps Boards](https://www.google.com/search?q=how+to+add+field+in+board+azure+devops) – *Google Search*
+- 🎥 [What Is Scrum: Stages (To Do, New, Approved, In Progress, Committed, Done)](https://www.youtube.com/watch?v=ondg1HNI8vc)
+- 🔍 [Scrum vs Agile – Full Explanation](https://www.youtube.com/results?search_query=what+is+the+difference+between+agile+and+scrum+%D8%B4%D8%B1%D8%AD)
+- 🎥 [Scrum Explained Simply – Arabic](https://www.youtube.com/watch?v=ozqQbCmtNdI)
+- 🎥 [Azure DevOps Scrum Explanation – Arabic](https://www.youtube.com/watch?v=swSwYDbx2X0)
+- 🎞️ [Scrum Course Playlist – Arabic](https://www.youtube.com/watch?v=MHBXs-iIjrk&list=PL87onf3TI5uUTz6fDwSi_LK930uIpkxGe)
+- 🎥 [Scrum Process Flow Overview](https://www.youtube.com/watch?v=tYV6GtOzeFg)
 
-https://www.youtube.com/results?search_query=what+is+in+scrum+todo+new+approved+in+progress+committed+done+stage+in+azure+
+---
 
-https://www.youtube.com/watch?v=ondg1HNI8vc
+## 📚 Group 3: Lifecycle, Planning & Tools
 
-https://www.youtube.com/results?search_query=what+is+the+difference+between+agile+and+scrum+%D8%B4%D8%B1%D8%AD
+- 🎥 [Agile Lifecycle & Tools Overview](https://www.youtube.com/watch?v=MPAGiT5WOBw)
+- 🎥 [Scrum Project Workflow in Azure](https://www.youtube.com/watch?v=iql930GDmVQ)
+- 🔍 [Epics, Features & User Stories Lifecycle in Azure](https://www.youtube.com/results?search_query=epics+features+stories+in+azure+lifecycle)
+- 🎥 [Agile Management in Azure Boards](https://www.youtube.com/watch?v=o8PEo-nQro8)
 
-https://www.youtube.com/watch?v=ozqQbCmtNdI
+---
 
-https://www.youtube.com/watch?v=swSwYDbx2X0
+## 💡 Tips
 
-https://www.youtube.com/results?search_query=scrum+%D8%B4%D8%B1%D8%AD
+- Bookmark these links for sprint planning sessions.
+- Consider organizing playlists for Arabic and English separately.
+- Group epics/features/user stories consistently across your projects.
 
-https://www.youtube.com/watch?v=MHBXs-iIjrk&list=PL87onf3TI5uUTz6fDwSi_LK930uIpkxGe
+---
 
-https://www.youtube.com/watch?v=tYV6GtOzeFg
-
-https://www.youtube.com/results?search_query=scrum+%D8%B4%D8%B1%D8%AD+%D8%A8%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A+azure+
-
---------------------------------------------
-
-## Third Group Search
-
-https://www.youtube.com/watch?v=MPAGiT5WOBw
-
-https://www.youtube.com/watch?v=ondg1HNI8vc
-
-https://www.youtube.com/watch?v=iql930GDmVQ
-
-https://www.youtube.com/results?search_query=epics+features+stories+in+azure+lifecycle
-
-https://www.youtube.com/watch?v=EYWj40eWSiE
-
-https://www.youtube.com/watch?v=ondg1HNI8vc
-
-https://www.youtube.com/watch?v=o8PEo-nQro8
-
---------------------------------------------
-
-
- 
+> Made with 💼 by an Agile enthusiast.
