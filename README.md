@@ -50,5 +50,3 @@ Follow the tutorial below to create an Amazon RDS PostgreSQL instance up to the 
 - Regularly **monitor logs** and performance metrics via CloudWatch.
 
 ---
-
-> 📝 *This repository is part of infrastructure documentation. Do not commit real passwords or private keys under any circumstance.*
