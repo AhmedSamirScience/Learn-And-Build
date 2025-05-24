@@ -40,5 +40,3 @@ A curated list of educational resources to understand and manage Agile workflows
 - Group epics/features/user stories consistently across your projects.
 
 ---
-
-> Made with 💼 by an Agile enthusiast.
