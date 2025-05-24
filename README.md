@@ -1,45 +1,77 @@
-# 🧠 Backend Engineering Knowledge Hub
+# ⚙️ Gradle References for Android Development
 
-This repository is a centralized learning and reference hub for **backend development**, with a focus on modern web development using **Node.js**, **Express**, **PostgreSQL**, **AWS**, and core **infrastructure concepts**.
-
-It includes curated tutorials, real-world setup guides, and architectural breakdowns organized across multiple focused branches.
+This branch contains valuable resources to help you **learn**, **optimize**, and **master Gradle** for modern Android development. Whether you're working with multi-module projects, securing your release builds, or learning to write custom plugins — this is your go-to collection.
 
 ---
 
-## 📁 Repository Structure (Branch Guide)
+## 📚 Featured YouTube Tutorials
 
-| Branch Name                         | Description                                                                 |
-|-------------------------------------|-----------------------------------------------------------------------------|
-| `master`                            | 📌 This branch – summary and directory of all backend learning branches     |
-| `nodejs-backend-roadmap`  | Full learning path for Node.js + Express + MVC + Middleware + Routing      |
-| `aws-rds-postgresql-setup`   | AWS RDS PostgreSQL setup guide and deployment best practices                |
-| `roadmap/server-fundamentals`      | Covers what servers are, their types, hosting, and cloud basics            |
-| `framework-vs-platform-runtime` | Explains foundational software concepts like frameworks, platforms, runtimes |
-| `agile-roadMap`                    | References and best practices for Agile, Scrum, and Azure DevOps Boards     |
+### 🎥 Philipp Lackner
 
----
+1. [Shrink, Optimize and Secure Your App With R8 & ProGuard](https://www.youtube.com/watch?v=bgpyuuzMlo0)  
+   🔐 Learn how to configure R8 & ProGuard for minification, shrinking, and securing your app.
 
-## 🚀 Purpose
+2. [Dependency Management in a Multi-Module Project](https://www.youtube.com/watch?v=Z97sl7MrrzE&t=632s)  
+   📦 Learn best practices for dependency configurations like `api`, `implementation`, and `compileOnly`.
 
-This repository is intended for:
-
-- Developers who want a **step-by-step backend roadmap**
-- Engineers learning to structure projects using **MVC**, **middleware**, and **REST APIs**
-- Teams needing a **reference base for PostgreSQL/AWS setup**
-- Beginners trying to understand **servers, platforms, and environments**
-- Anyone practicing **Agile software delivery** using DevOps tools
+3. [How to Build a Custom Gradle Plugin](https://www.youtube.com/watch?v=kFWmL5opJNk&t=349s)  
+   🔧 Create and reuse your own Gradle plugin to streamline multi-module setup.
 
 ---
 
-## 📚 Learning Highlights
+### 🎥 Azmi Radi – Gradle Playlist
 
-- ✅ Build and organize a real Express backend using `Node.js`
-- ✅ Understand middleware, request handling, and data validation (`ajv`)
-- ✅ Connect to and manage a PostgreSQL database hosted on AWS RDS
-- ✅ Understand core server concepts like hosting, proxies, reverse proxies
-- ✅ Learn the difference between frameworks, platforms, and runtimes
-- ✅ Master Agile workflows using Azure DevOps Boards
+- [Gradle for Android Developers (Playlist)](https://www.youtube.com/watch?v=ow3kRfApwRQ&list=PL7KKZAJb7iZCCYZtRzNk6RUtmOp_oDGYn)  
+  Covers Gradle fundamentals, advanced techniques, and real-world usage for Android apps.
 
 ---
- 
- 
+
+## 📘 Recommended Articles & Docs
+
+| Topic | Link |
+|-------|------|
+| Beginner’s guide to `build.gradle` files | [Hashnode – vtsen](https://vtsen.hashnode.dev/beginners-guide-to-understand-build-gradle-files-in-android-studio#heading-pluginmanagement) |
+| Gradle structure and tasks | [Medium – egdroid](https://medium.com/egdroid/atat-gradle-structure-and-tasks-in-android-studio-lets-dig-deeper-bf7a100d98ae) |
+| Getting started with Gradle | [Kodeco](https://www.kodeco.com/249-gradle-tutorial-for-android-getting-started#toc-anchor-001) |
+| Plugin version management | [Rigel.dev](https://www.rigel.dev/gradle-plugin-version-management/) |
+| Gradle plugin cheat sheet | [Touchlab](https://touchlab.co/gradle-cheat-sheet/) |
+| Convention plugins explained | [Jordan Terry](https://www.jordanterry.co.uk/a-brief-look-at-gradles-convention-plugins) |
+
+---
+
+## 🧩 Advanced Dependency & Plugin Management
+
+- [Mastering Dependency Management (Version Catalogs + Convention Plugins)](https://proandroiddev.com/mastering-android-dependency-management-b94205595f6b)
+- [Modern Dependency Management](https://medium.com/adessoturkey/modern-dependency-management-gradle-version-catalogs-and-convention-plugins-c9a822aa270e)
+- [BuildSrc + Kotlin DSL Tutorial](https://betterprogramming.pub/gradle-dependency-management-with-buildsrc-and-kotlin-dsl-1de958eab166)
+
+---
+
+## 🛠️ For Beginners
+
+- [Gradle Tutorial for Complete Beginners](https://tomgregory.com/gradle/gradle-tutorial-for-complete-beginners/)
+- [Gradle Basics for Android Developers](https://medium.com/android-dev-corner/gradle-basics-for-android-developers-9d7a3bf062bb)
+- [What is Gradle & Why We Use It?](https://medium.com/@banmarkovic/what-is-gradle-and-why-do-we-use-it-as-android-developers-572a07b3675d)
+
+---
+
+## ⚙️ Build Process & Compilation
+
+- [Compilation Process in Android (Java/Kotlin)](https://medium.com/@banmarkovic/process-of-compiling-android-app-with-java-kotlin-code-27edcfcce616)
+- [Kotlin Compilation: Android vs Desktop](https://vtsen.hashnode.dev/android-vs-desktop-app-kotlin-compilation-process)
+- [Gradle Tips & Tricks for Android](https://blog.mindorks.com/gradle-tips-and-tricks-for-android/)
+
+---
+
+## 📌 Summary
+
+This branch serves as a curated **knowledge base** for all things Gradle in the Android ecosystem:
+
+- ✅ Multi-module setup strategies
+- ✅ Dependency and plugin management (BuildSrc, version catalogs, DSL)
+- ✅ Obfuscation and optimization with R8 & ProGuard
+- ✅ Build process understanding and performance tips
+
+Use this as your go-to learning tracker or reference guide while scaling your Android projects!
+
+---
