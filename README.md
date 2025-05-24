@@ -1,4 +1,4 @@
-# 🧱 Framework, Platform, Environment — and Soon...
+# 🧱 Framework, Platform, Environment
 
 A collection of articles that clearly explain the distinctions between frameworks, platforms, runtimes, and environments in software development.
 
