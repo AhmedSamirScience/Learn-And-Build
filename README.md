@@ -1,48 +1,38 @@
-# 🧠 Backend & Android Engineering Knowledge Hub
+# 📚 Android Development References
 
-This repository is a centralized learning and reference hub for **backend development** and **Android architecture**, covering technologies such as **Node.js**, **Express**, **PostgreSQL**, **AWS**, **Gradle**, and **clean Android conventions**.
-
-It includes curated tutorials, real-world setup guides, and architectural breakdowns, all organized across focused branches.
+This branch collects insightful articles, blog posts, and LinkedIn shares that cover **core Android concepts**, **best practices**, and **advanced patterns**. Use these resources to level up your Android development knowledge.
 
 ---
 
-## 📁 Repository Structure (Branch Guide)
+## 🔁 Functional Programming in Android
 
-| Branch Name                         | Description                                                                 |
-|-------------------------------------|-----------------------------------------------------------------------------|
-| `master`                            | 📌 This branch – summary and directory of all learning/reference branches    |
-| `nodejs-backend-roadmap`           | Full learning path for Node.js + Express + MVC + Middleware + Routing       |
-| `aws-rds-postgresql-setup`         | AWS RDS PostgreSQL setup guide and deployment best practices                |
-| `roadmap/server-fundamentals`      | Covers what servers are, their types, hosting, and cloud basics             |
-| `framework-vs-platform-runtime`    | Explains foundational software concepts like frameworks, platforms, runtimes|
-| `agile-roadMap`                    | References and best practices for Agile, Scrum, and Azure DevOps Boards     |
-| `gradle-android-reference`         | Advanced Gradle usage, dependency management, and plugin strategies         |
-| `android-naming-conventions`       | Guides for XML, resource, and project structure naming in Android projects  |
+- [10 Practical Examples of Higher-Order Functions in Android](https://medium.com/@summitkumar/10-practical-examples-of-higher-order-functions-in-android-development-84e9c6a4bdc3)  
+  ✨ Learn how Kotlin’s higher-order functions improve code reusability and readability in real Android use cases.
 
 ---
 
-## 🚀 Purpose
+## 🧠 Memory Management & Optimization
 
-This repository is intended for:
-
-- Developers who want a **step-by-step backend roadmap**
-- Engineers learning to structure projects using **MVC**, **middleware**, and **REST APIs**
-- Android developers who need **Gradle mastery** and project maintainability tips
-- Teams needing a **reference base for PostgreSQL/AWS setup**
-- Beginners trying to understand **servers, platforms, and environments**
-- Anyone practicing **Agile delivery** using DevOps tools and structured boards
+- [What is WeakReference in Android?](https://medium.com/@dawinderapps/android-interview-questions-37-what-is-weakreference-in-android-where-and-how-to-use-it-d2219b8515f0)  
+  🧵 Understand how to prevent memory leaks using `WeakReference`, especially in long-lived components.
 
 ---
 
-## 📚 Learning Highlights
+## 🌐 Networking & Interceptors
 
-- ✅ Build and organize a real backend with `Node.js` and `Express`
-- ✅ Understand middleware layers, request lifecycles, and `ajv` validation
-- ✅ Connect, deploy, and manage PostgreSQL databases with AWS RDS
-- ✅ Master Gradle for Android, including version catalogs and custom plugins
-- ✅ Implement clean naming standards across Android resource files and modules
-- ✅ Learn to shrink, secure, and optimize Android apps using ProGuard/R8
-- ✅ Explore cloud server principles, hosting types, and deployment scenarios
-- ✅ Apply Agile workflows using Azure DevOps Boards and backlog structures
+- [How OkHttp Interceptor Works](https://outcomeschool.com/blog/okhttp-interceptor)  
+  📡 Dive into how interceptors in OkHttp can modify, log, or monitor HTTP requests and responses.
 
 ---
+
+## 🔗 Noteworthy LinkedIn Shares
+
+- [Amit Shekhar on Android Best Practices](https://www.linkedin.com/posts/amit-shekhar-iitbhu_androiddev-outcomeschool-activity-7222477392248758272-0jgy/?utm_source=share&utm_medium=member_android)  
+  🔍 Thought leadership from Amit Shekhar on what modern Android development looks like.
+
+- [Outcomeschool on Android Dev Tips](https://www.linkedin.com/feed/update/urn:li:activity:7208015386108129280/)  
+  🛠️ Short, actionable posts to improve your day-to-day development flow.
+
+---
+
+> 💡 This branch will be updated regularly with new high-quality references to support Android developers at all levels.
